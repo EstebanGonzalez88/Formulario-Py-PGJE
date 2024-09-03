@@ -1,0 +1,36 @@
+Nombres: Jose
+Apellidos: Perez
+Edad: 13anos
+
+Estatura: 1.56
+Telefono: 868585
+Genero: Hombre
+
+
+Nombres: Jose
+Apellidos: SI
+Edad: 67anos
+
+Estatura: 169
+Telefono: 886868
+Genero: Hombre
+
+
+Nombres: Flavio
+Apellidos: FRuiz
+Edad: 32anos
+
+Estatura: 189
+Telefono: 956873737
+Genero: Hombre
+
+
+Nombres: Jose Esteban
+Apellidos: Perez Gonzalez
+Edad: 18anos
+
+Estatura: 1.80
+Telefono: 9612756287
+Genero: Hombre
+
+
